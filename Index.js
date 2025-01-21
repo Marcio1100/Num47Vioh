@@ -1,6 +1,14 @@
 //tutorial hospedagem https://www.youtube.com/watch?v=6FOkWIGFNzI
 // aws https://sa-east-1.console.aws.amazon.com/ec2/home?region=sa-east-1#Home:
 // ---------------------------------------------------------------------------------------------------------
+import puppeteer from 'puppeteer';
+
+const browser = await puppeteer.launch(); // Fails
+
+const page = await browser.newPage();
+await page.setContent('<div>test</div>');
+
+
 const qrcode = require('qrcode-terminal');
 const { Client, Buttons, List, MessageMedia, LocalAuth } = require('whatsapp-web.js'); // Mudança Buttons
 //const client = new Client();
