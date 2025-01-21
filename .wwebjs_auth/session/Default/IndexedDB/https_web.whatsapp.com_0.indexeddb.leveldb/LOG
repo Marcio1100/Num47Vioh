@@ -1,0 +1,23 @@
+2025/01/20-22:34:23.636 36ac Reusing MANIFEST C:\Users\pc\Desktop\Desenvolver\Codes\Chatbot\Reposyt_Git\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/20-22:34:23.637 36ac Recovering log #284
+2025/01/20-22:34:23.661 36ac Reusing old log C:\Users\pc\Desktop\Desenvolver\Codes\Chatbot\Reposyt_Git\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000284.log 
+2025/01/20-22:34:23.661 36ac Delete type=2 #278
+2025/01/20-22:34:23.661 36ac Delete type=2 #279
+2025/01/20-22:34:23.661 36ac Delete type=2 #280
+2025/01/20-22:34:23.661 36ac Delete type=2 #281
+2025/01/20-22:34:23.661 36ac Delete type=2 #282
+2025/01/20-22:34:23.661 36ac Delete type=2 #283
+2025/01/20-22:34:23.661 36ac Delete type=2 #285
+2025/01/20-22:34:27.947 1530 Level-0 table #294: started
+2025/01/20-22:34:27.959 1530 Level-0 table #294: 227372 bytes OK
+2025/01/20-22:34:27.963 1530 Delete type=0 #284
+2025/01/20-22:34:27.963 1530 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-22:34:29.487 2b10 Compacting 1@1 + 6@2 files
+2025/01/20-22:34:29.549 2b10 Generated table #295@1: 38264 keys, 2192873 bytes
+2025/01/20-22:34:29.654 2b10 Generated table #296@1: 39056 keys, 2211966 bytes
+2025/01/20-22:34:29.773 2b10 Generated table #297@1: 60211 keys, 2224169 bytes
+2025/01/20-22:34:29.812 2b10 Generated table #298@1: 9412 keys, 2158114 bytes
+2025/01/20-22:34:29.883 2b10 Generated table #299@1: 30094 keys, 2192320 bytes
+2025/01/20-22:34:30.019 2b10 Generated table #300@1: 88407 keys, 1887788 bytes
+2025/01/20-22:34:30.019 2b10 Compacted 1@1 + 6@2 files => 12867230 bytes
+2025/01/20-22:34:30.020 2b10 compacted to: files[ 0 0 6 0 0 0 0 ]
