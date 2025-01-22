@@ -1,6 +1,7 @@
 //tutorial hospedagem https://www.youtube.com/watch?v=6FOkWIGFNzI
 // aws https://sa-east-1.console.aws.amazon.com/ec2/home?region=sa-east-1#Home:
 // ---------------------------------------------------------------------------------------------------------
+//https://www.youtube.com/watch?v=MdZFR2op_mg&t=130s
 import puppeteer from 'puppeteer';
 
 const browser = await puppeteer.launch(); // Fails
